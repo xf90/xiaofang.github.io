@@ -8,7 +8,6 @@ date: 2022-08-15
 location: Gaunesville, USA
 ---
 
-
 Teaching Assistant, University of Florida
 ======
 
