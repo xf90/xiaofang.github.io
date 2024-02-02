@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Florida"
-date: 2016-2022
+date: 2016-08-15
 location: 
 ---
 
