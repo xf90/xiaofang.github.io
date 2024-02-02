@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Teaching experience"
+collection: 
+type: 
+permalink: 
+venue: 
+date: 
+location: 
 ---
+Teaching Assistant, University of Florida
 
-This is a description of a teaching experience. You can use markdown like any other post.
+•	STA4183: Theory of Interest (Fall 2018, Fall 2019, Fall 2020)
 
-Heading 1
-======
+•	STA4186:  Investment and Financial Markets (Spring 2020)
 
-Heading 2
-======
+•	STA4321: Introduction to Probability (Fall 2016, Spring 2017)
 
-Heading 3
-======
+
